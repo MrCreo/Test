@@ -1,0 +1,1 @@
+Get-LocalUser > $PSScriptRoot/localUsers.txt
